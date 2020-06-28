@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/blog/',
+
   title: 'geng',
   description: '',
   dest: 'public',
